@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">sieciii</string>
+
+    <string name="adres">Adres: </string>
+    <string name="rozmiar">Rozmiar pliku: </string>
+    <string name="typ">Typ plików: </string>
+    <string name="pobrano">Pobrano bajtów: </string>
+
+    <string name="bpobierzplik">Pobierz plik </string>
+    <string name="bpobierzinfo">Pobierz informacje </string>
+
+    <string name="trozmiar">XX</string>
+    <string name="ttyp">XX</string>
+    <string name="tpobrano">XX</string>
+    <string name="pasekpobrano">POBIERANIE XDDDDD</string>
+
+
+
+</resources>
